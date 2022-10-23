@@ -12,7 +12,7 @@ let count=0;
  
  if(count==2){
   
-  console.log("");
+  console.log("prime");
  
    }else{
   
